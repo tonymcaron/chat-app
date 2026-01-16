@@ -1,6 +1,6 @@
 # React Native Chat App
 
-A feature-rich real-time chat application built with React Native, Expo, and Firebase. The app includes text messaging, image sharing, location sharing, and offline caching capabilities.
+A feature-rich, real-time chat application built with React Native, Expo, and Firebase. The app includes text messaging, image sharing, location sharing, and offline caching capabilities.
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/chat-app.git
+git clone <repository-url>
 cd chat-app
 ```
 
